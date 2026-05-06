@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: hik_industrial_sdk
+Version: 4.6.0.1
+Summary: 海康工业相机SDK绿化版，支持MvImport无感替换
+Author: LCL
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
