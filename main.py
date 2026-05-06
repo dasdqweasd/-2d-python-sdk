@@ -129,7 +129,7 @@ class GrabThread(QThread):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("奇测智能 - 工业相机调试控制台")
+        self.setWindowTitle("海康测试")
         self.resize(1250, 850)
         self.setStyleSheet(STYLE_SHEET)
 
